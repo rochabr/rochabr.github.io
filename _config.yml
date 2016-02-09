@@ -5,7 +5,7 @@ email: fernandorsl@gmail.com
 description: "Description"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://fernandorocha.io" # the base hostname & protocol for your site
-twitter_username: fernandorochas
+twitter_username: fernando_rochas
 github_username:  rochabr
 
 # Build settings
