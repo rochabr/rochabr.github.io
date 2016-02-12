@@ -18,27 +18,14 @@ Million dollar question: How to change that?
 
 Well, you are going to find a lot of solutions online, which might be right or wrong, as I haven't tried them. There is a great post by [David Walsh][david-imposter] that was very helpful and made me feel better about myself. He is clearly more succesful than I am and he still suffers from this. I'm REALLY not alone on this one. I decided, though, to ask myself what brouht me into this... The facebook failure was not the starting point, it was the last drop. I was feeling like an imposter way before that, but it wasn't bothering me. I failed the facebook interview for multiple reasons:
 
-- I forgot the basics. Peterson, Dijkstra, Knuth let my mind as soon as I gaduated and started working in real software.
+- I forgot the basics. Peterson, Dijkstra and Knuth left my mind as soon as I gaduated and started developing real software.
 
 - I lean to much on the intellisense feature that comes along with  99% of the IDEs.
 
 - Stackoverflow made me a little bit more stupid everytime I was in a hurry to understand what was going on in that piece of borrowed code.
 
+For these issues, I came up with the amazing solution of getting back to the basics. So, the first thing I did was to buy new technical books. Yes, and since I've heard so much about The Nerd Ranch Guide books, I decided to give it a try.
 
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
 
 [bluesoft-talk]: https://www.youtube.com/watch?v=8t6dJudTdTE
 [bluesoft-channel]: https://www.youtube.com/channel/UCMbi8katMCUd5JkJ3Rr0t_w
