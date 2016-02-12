@@ -10,3 +10,14 @@ github_username:  rochabr
 
 # Build settings
 markdown: kramdown
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+comments :
+  provider : disqus
+  facebook :
+    appid : 438383169701164
+    num_posts: 5
+    width: 580
+    colorscheme: light
