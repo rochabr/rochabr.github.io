@@ -114,20 +114,31 @@
 
   </article>
 </div>
-<div id="fb-root">
-{% if page.comments %} 
-<hr/>
-<h2>Comments</h2>
-<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-num-posts="4" data-width="706"></div>
-{% endif%}
+<div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
 </div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=438383169701164";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, "script", "facebook-jssdk"));</script>
+<body>
+	<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '438383169701164',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+</body>
       </div>
     </div>
     
