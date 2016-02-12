@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Revisiting my inner developer(finding a cure for the Imposter Syndrome)"
+title:  "Fighting the Imposter Syndrome"
 date:   2016-02-11 6:28:00
 categories: developer ios job life
 ---
