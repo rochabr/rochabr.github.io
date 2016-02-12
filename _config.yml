@@ -15,7 +15,7 @@ markdown: kramdown
 # Set 'provider' to the comment provider you want to use.
 # Set 'provider' to false to turn commenting off globally.
 comments :
-  provider : disqus
+  provider : facebook
   facebook :
     appid : 438383169701164
     num_posts: 5
