@@ -32,7 +32,7 @@ For these issues, I came up with the following solutions:
 
 So, here I am. Trying to change my professional life, trying to get more confidence and, most importantly, trying to get cured from this "syndrome thing".
 
-By rerouting my focus to relearning what I forgot, I hope to become a better developer. Not for the organization that I’m currently working for, but for myself.
+By rerouting my focus to relearn what I forgot, I hope to become a better developer. Not for the organization that I’m currently working for, but for myself.
 
 
 [bluesoft-talk]: https://www.youtube.com/watch?v=8t6dJudTdTE
