@@ -4,9 +4,7 @@ title:  "Revisiting my inner developer(finding a cure for the Imposter Syndrome)
 date:   2016-02-11 6:28:00
 categories: developer ios job life
 ---
-It's funny.
-
-I've been a developer my whole life (since I was 18, professionally) and I've always thought of myself as a good one. I've never had any issues solving any challenges that my employers presented. Some were easy, others took a little bit more time, but they were never unsolved. I must say, though, that I had a lot of different jobs. Usually with the same title and responsibilities, but in many different companies. I have landed great jobs and participated in some life changing projects throughout my career. Things that I really should be proud of.
+It's funny. I've been a developer my whole life (since I was 18, professionally) and I've always thought of myself as a good one. I've never had any issues solving any challenges that my employers presented. Some were easy, others took a little bit more time, but they were never unsolved. I must say, though, that I had a lot of different jobs. Usually with the same title and responsibilities, but in many different companies. I have landed great jobs and participated in some life changing projects throughout my career. Things that I really should be proud of.
 
 The thing is, in 2013 I had my first big failure as a developer. I was interviewed for a job opening in Facebook (dream job, right?). And I thought I had it. Yes, I was a silly goose but, what the hell, right? I had nailed every single interview I've ever been in. Technical and non-technical. Well, not that one. I failed that one HARD! And, you know what? I didn't take it easy. I felt like the worst piece of crap and then, right after that, I’ve developed something called Imposter Syndrome, although, at the time, it didn't have a name. Not to me, anyway.
 
