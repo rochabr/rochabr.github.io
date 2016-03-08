@@ -18,7 +18,11 @@ layout: default
   data-width="450"
   data-show-faces="true">
 </div>
-<div class="fb-comments" data-href="{{ site.production_url }}{{ page.url }}" data-numposts="5"></div>
+{{ "{% if page.comments " }}%} 
+<hr/>
+<h2>Comments</h2>
+<div class="fb-comments" data-href="{{ "{{ site.url " }}}}{{ "{{ page.url " }}}}" data-num-posts="4" data-width="706"></div>
+{{ "{% endif"}}%}
 <body>
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
