@@ -22,6 +22,14 @@ Cons
 -	The learning curve is somethin to think about. The idea  of "Am I doing the right thing?" is constant and disturbing.
 -	The big guys aren't using it. Facebook, Google, Amazon, Evernote, Booking: they are going with objC and Android. So don't expect to see cool frameworks like [Pop][pop-url] on Xamarin, unless you build them yourself or wait for someone to do it for you.
 -	Help online is scarce and it always comes from the same guys, who are very good.
+-	Debugging applications for Android is one of the most painful things I've ever suffered professionaly. The connection with the debugger doensn't stand, for some crazy reason and the message below is very common.
+
+![Error debug message]({{ site.url }}/images/debuggerandroid.png)
+
+Also, this compiler issue comes and goes:
+
+![Error compiler]({{ site.url }}/images/compilerissues.png)
+
 
 Pros
 
@@ -29,6 +37,8 @@ Pros
 -	C# is a powerful and easy language.
 -	Xamarin university is REALLY good. I can't say this enough. It's probably one of the best online classes I've ever seen in my life.
 -	Xamarin is perfect for quick mockups and tiny MVPs, where you are not trying to make things very pretty, but trying to give an idea of how your app you behave in Android and iOS.
+
+At the end, all I can say is: I really miss objective-c. I miss the challenges, the community and feeling excited about upcoming things.
 
 
 [pop-url]: https://github.com/facebook/pop
