@@ -54,7 +54,7 @@ At the end, all I can say is: you should use Xamarin if:
 -	If you really want to write one code for all platforms, you should design simple interfaces.
 -	You are willing to bet that the development platform will become better in the future.
 
-These are my thoughts about this technology. Personally, I’ll continue doing my personal projects with the beautiful Xcode.
+These are my thoughts about this technology. Personally, I’ll continue doing my personal projects with the beautiful and always reliable Xcode.
 
 
 [pop-url]: https://github.com/facebook/pop
