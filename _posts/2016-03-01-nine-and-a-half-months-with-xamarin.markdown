@@ -25,11 +25,11 @@ Cons
 -	Help online is scarce and it always comes from the same guys, who are very good.
 -	Debugging applications for Android is one of the most painful things I've ever suffered professionaly. The connection with the debugger doensn't stand, for some crazy reason and the message below is very common.
 
-![Error debug message]({{ site.url }}/images/debuggerandroid.png)
+![Error debug message](http://fernandorocha.io/images/debuggerandroid.png)
 
 Also, this compiler issue comes and goes:
 
-![Error compiler]({{ site.url }}/images/compilerissues.png)
+![Error compiler](http://fernandorocha.io/images/compilerissues.png)
 
 
 Pros
