@@ -3,6 +3,7 @@ layout: post
 title:  "9 1/2 months with Xamarin"
 date:   2016-03-08 6:28:00
 categories: developer xamarin
+comments: yes
 ---
 On January 3rd I got a call from my current boss, I was still living in the wonderful land of Rio de Janeiro and I was eager to get out of there as soon as possible so, when he called me to discuss an opportunity in the US, I was really excited. They needed someone that wes already working in the company for a while and had a strong mobile development background(check and check). We went through his ideas, I gave my two cents and somehere, in the middle of our conversation, I asked about if we were going to use ObjC and Java for iOS and Android.
 

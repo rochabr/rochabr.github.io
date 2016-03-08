@@ -3,6 +3,7 @@ layout: post
 title:  "Fighting the Imposter Syndrome"
 date:   2016-02-11 6:28:00
 categories: developer ios job life
+comments: yes
 ---
 It's funny. I've been a developer my whole life (since I was 18, professionally) and I've always thought of myself as a good one. I've never had any issues solving any challenges that my employers presented. Some were easy, others took a little bit more time, but they were never unsolved. I must say, though, that I had a lot of different jobs. Usually with the same title and responsibilities, but in many different companies. I have landed great jobs and participated in some life changing projects throughout my career. Things that I really should be proud of.
 
