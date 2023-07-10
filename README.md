@@ -1,6 +1,6 @@
 # Fernando Rocha's Portfolio
 
-Curation of blog posts, artivles, whitepapers, and videos of public presenations
+Curation of blog posts, articles, whitepapers, and videos of public presentations.
 
 ## Whitepapers
 
