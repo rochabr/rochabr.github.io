@@ -2,8 +2,6 @@
 
 Curation of blog posts, artivles, whitepapers, and videos of public presenations
 
-![Banner Image](path/to/banner/image.jpg)
-
 ## Whitepapers
 
 ### Amplify Datatore
